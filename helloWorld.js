@@ -1,1 +1,2 @@
-console.log("hello world!")
+var user="Isaac"
+console.log(user+" hello world!")
